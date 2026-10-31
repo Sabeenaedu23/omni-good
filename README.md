@@ -1,4 +1,4 @@
-# omni-good
+# omni-Food
 A responsive web design project built using HTML5 and CSS3, featuring a clean layout, modern styling, and mobile-friendly design. Optimized for different screen sizes, including desktops, tablets, and smartphones.
 # 🌐 Responsive Web Design Project
 
@@ -42,4 +42,4 @@ The website is designed to adapt to different screen sizes, providing a consiste
 ## 👩‍💻 Author
 **Sabeena R**
 
-GitHub: [Add Your GitHub Profile Link](https://github.com/)
+GitHub: https://sabeenaedu23.github.io/omni-good/
